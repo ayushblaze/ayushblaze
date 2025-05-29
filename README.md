@@ -1,5 +1,5 @@
-<h1 align="center">👋🏻 I'm Ayush - developer by day, debugger by night, and chronic “save-for-later” link collector 24/7</h1>
-<h3 align="center">Writing clean code and messier to-do lists 💻📝</h3>
+<h1 align="center">👋🏻 Hi, I'm Ayush</h1>
+<h3 align="center">Developer by day, debugger by night, and chronic “save-for-later” link collector 24/7</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushblaze&label=Profile%20views&color=0e75b6&style=flat" alt="ayushblaze" /> </p>
 
