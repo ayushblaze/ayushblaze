@@ -1,8 +1,6 @@
 <h1 align="center">👋🏻 Hi, I am Ayush Singh</h1>
 <h3 align="center">Developer by day, debugger by night, and chronic “save-for-later” link collector 24/7.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushblaze&label=Profile%20views&color=0e75b6&style=flat" alt="ayushblaze" /> </p>
-
 - 🌱 I’m currently learning **2D Game Development**
 
 <h3 align="left">Connect with me:</h3>
