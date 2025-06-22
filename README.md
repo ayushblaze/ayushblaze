@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Game Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ayush-singh-40327b1a3/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ayushblaze/)
 
 - ⚡ Fun fact **I treat console.log like a journal, it knows everything.**
 
